@@ -1,0 +1,14 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 544,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 620181341,
+		"common": 1
+	}
+]
